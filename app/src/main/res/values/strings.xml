@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spop26</string>
+    <string name="item_podcast_title">Title</string>
+    <string name="item_search_response_thumbnail_description">thumnail</string>
+    <string name="item_search_response_title">Item Search Response Title</string>
+    <string name="item_search_response_podcast_title">Podcast Title</string>
+    <string name="item_search_response_publisher">Publisher</string>
+    <string name="item_search_response_by">by</string>
+</resources>
